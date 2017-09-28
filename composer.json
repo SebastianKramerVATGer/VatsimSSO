@@ -16,11 +16,17 @@
             "name" : "Roy de Vos Burchart",
             "email" : "dev@bonroyage.com",
             "homepage" : "http://www.bonroyage.com"
+        },
+        {
+            "name": "SebastianKramerVATGer",
+            "email": "info@jskramer.de"
         }
     ],
+    "homepage": "https://github.com/SebastianKramerVATGer/VatsimSSO.git",
     "support" : {
-        "issues" : "https://github.com/KHardern/VatsimSSO/issues",
-        "wiki" : "https://github.com/KHardern/VatsimSSO/wiki"
+        "source" : "https://github.com/SebastianKramerVATGer/VatsimSSO",
+        "issues" : "https://github.com/SebastianKramerVATGer/VatsimSSO/issues",
+        "wiki" : "https://github.com/SebastianKramerVATGer/VatsimSSO/wiki"
     },
     "require" : {
         "php" : ">=5.4.0",
