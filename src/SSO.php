@@ -339,7 +339,7 @@ class SSO {
 	 * @return string
 	 * @throws SSOException
 	 */
-	protected function redirectUrl ()
+	public function redirectUrl ()
 	{
 		// a token must have been returned to redirect this user
 		if ( ! $this->token )
